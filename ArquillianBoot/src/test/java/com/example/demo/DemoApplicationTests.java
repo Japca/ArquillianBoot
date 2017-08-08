@@ -7,9 +7,6 @@ import org.jboss.shrinkwrap.api.spec.WebArchive;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.test.context.junit4.SpringRunner;
-
-import java.io.File;
 
 //@RunWith(SpringRunner.class)
 @RunWith(Arquillian.class)
